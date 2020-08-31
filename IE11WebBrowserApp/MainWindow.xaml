@@ -1,0 +1,12 @@
+﻿<Window x:Class="IE11WebBrowserApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="IE11 WebBrowser WPF App"
+        WindowStartupLocation="CenterScreen" 
+        Width="1024"
+        Height="576"
+    >
+
+    <WebBrowser Name="WebBrowserView"/>
+
+</Window>
