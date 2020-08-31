@@ -11,7 +11,6 @@ async function main() {
     // Create the browser window.
     const window = new BrowserWindow({ width: 1024, height: 576, center: true });
 
-
     window.loadURL("https://www.bing.com");
 
     return window;
@@ -26,8 +25,8 @@ async function main() {
   const terminationPromise = new Promise(resolve => 
     app.once('window-all-closed', resolve));
 
-  // initiate creating the main window
-  createMainWindow();
+  // create the main window
+  const mainWindow = createMainWindow();
 
   // awaiting terminationPromise here keeps the mainWindow object alive
   await terminationPromise;
