@@ -13,4 +13,4 @@ Each application simply loads [Bing home page](https://www.bing.com/):
 
 A screenshot of [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer):
 
-![WebView working memory sets](https://github.com/noseratio/CompareWebViews/tree/main/procexp.jpg)
+![WebView working memory sets](https://raw.githubusercontent.com/noseratio/CompareWebViews/main/procexp.jpg)
