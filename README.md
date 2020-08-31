@@ -1,8 +1,8 @@
 ## Comparing process working sets of various WebView-based Windows Desktop apps
 
-Let's comparing the working sets of various WebView-based Windows Desktop apps. 
+Let's compare the working sets of various WebView-based Windows Desktop apps. 
 
-Each application simply loads [Bing home page](https://www.bing.com/).
+Each application simply loads [the Bing homepage](https://www.bing.com/).
 
 |App|Working set size|
 |---|----------------|
